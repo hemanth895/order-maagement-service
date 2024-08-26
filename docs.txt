@@ -1,0 +1,2 @@
+go work init --options:
+    command used to set up a workspace in go allowing us to manage multiple go modules within a single workspace
